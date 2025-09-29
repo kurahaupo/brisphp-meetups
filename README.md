@@ -21,7 +21,7 @@ Materials from past talks (slides/videos) will be posted [on their GitHub issue]
 
 ## Sponsors
 
-The BrisPHP Meeting has three amazing sponsors which all provide venues, food and drinks on a rotating basis.
+The BrisPHP Meeting has three amazing sponsors who provide food and drinks on a rotating basis.
 
 <img src="/images/creditsense.png" alt="CreditSense Logo" width="200">
 
@@ -36,6 +36,9 @@ Our organisers (Tom & Nathan) are provided by ProcurePro.
 <img src="/images/procurepro.png" alt="ProcurePro Logo" width="200">
 
 [ProcurePro - Trade procurement - Simple, Accurate & Efficient](https://procurepro.co)
+
+Brisbane City Council provide our meeting venue in the
+[Brisbane Square Library](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/libraries/library-locations/brisbane-square-library).
 
 We are also supported by JetBrains and AWS, who provide IntelliJ licenses and AWS vouchers as giveaways for attendees.
 
